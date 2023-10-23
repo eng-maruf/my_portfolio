@@ -1285,3 +1285,7 @@ section {
 #footer .credits a {
   color: #34b7a7;
 }
+.ser{
+  height: 100px !important;
+  width: 100px !important;
+}
